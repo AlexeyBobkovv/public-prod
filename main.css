@@ -31,6 +31,7 @@ body {
 
 .nav-item {
   width: 13.625%;
+  height: auto;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -56,7 +57,7 @@ body {
 }
 
 .nav-item__center-icon {
-  width: 56.60377%;
+  width: 57.35849%;
   height: 86.41975%;
   background: url(../img/main-on.png) no-repeat;
   background-size: 100% 100%;
@@ -160,7 +161,7 @@ body {
   padding-bottom: 6%;
 }
 
-.registration {
+.registr-rule {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -178,9 +179,13 @@ body {
   border: none;
 }
 
-.registration img {
+.registr-rule img {
   width: 80%;
   height: 85%;
+}
+
+.bottom-registr {
+  display: none;
 }
 
 .main {
@@ -215,6 +220,10 @@ body {
 .main__center-header-block .earth {
   width: 92%;
   height: 90%;
+}
+
+.main__center-header-block .left-bottom-partn {
+  display: none;
 }
 
 .main__center-footer-block {
@@ -254,8 +263,9 @@ body {
 
 .top-block .bottom {
   width: 62%;
-  padding-top: 10%;
+  padding-top: 11%;
   z-index: -1;
+  padding-left: 1%;
 }
 
 .main__aside {
@@ -343,15 +353,24 @@ body {
 }
 
 .main__aside .right-top-partn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   width: 30%;
-  height: 22%;
+  height: 25%;
   left: 15%;
   top: 18%;
 }
 
 .main__aside .right-top-partn img {
-  width: 100%;
-  height: 100%;
+  width: 88%;
+  height: 85%;
 }
 
 .main__aside .right-bottom-partn {
@@ -440,5 +459,146 @@ body {
 .magic-wand a:nth-child(7) {
   top: 18%;
   left: 9%;
+}
+
+@media all and (orientation: portrait) {
+  .header {
+    height: 10vh;
+    margin-top: 1vh;
+  }
+  .menu {
+    width: 100%;
+  }
+  .nav-item {
+    width: 12.625%;
+  }
+  .nav-item__link {
+    width: 100%;
+    height: 57%;
+  }
+  .nav-item__center {
+    width: 26.188%;
+  }
+  .nav-item__center-icon {
+    width: 61.358%;
+    height: 65.42%;
+  }
+  .nav-item__center-helpers {
+    height: 100%;
+  }
+  .nav-item__center-help-link {
+    width: 99.652%;
+    height: 24.723%;
+  }
+  .main {
+    height: 88vh;
+  }
+  .main__center {
+    width: 44.264%;
+  }
+  .main__center-header-block {
+    position: relative;
+  }
+  .main__center-header-block .left-bottom-partn {
+    display: block;
+    position: absolute;
+    width: 40%;
+    height: 16%;
+    bottom: 1%;
+  }
+  .main__center-header-block .left-bottom-partn img {
+    width: 100%;
+  }
+  .main__aside .top-block {
+    width: 67.991%;
+    height: 18.944%;
+  }
+  .main__aside .top-tournament {
+    bottom: 25%;
+    left: 19%;
+  }
+  .main__aside .top-blogger {
+    bottom: 25%;
+    right: 19%;
+  }
+  .main__aside .top-partner {
+    top: 0%;
+    left: 19%;
+  }
+  .main__aside .top-player {
+    right: 19%;
+    top: 0%;
+  }
+  .main__aside .left-top-partn {
+    width: 54%;
+    height: 11%;
+    right: 11%;
+    top: 21.5%;
+  }
+  .main__aside .left-top-partn img {
+    width: 96%;
+    height: 83%;
+  }
+  .main__aside .left-center-partn {
+    width: 100%;
+    height: 6%;
+    right: 0%;
+    top: 49%;
+  }
+  .main__aside .left-bottom-partn {
+    display: none;
+  }
+  .main__aside .right-top-partn {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    width: 74%;
+    height: 12%;
+    top: 20%;
+  }
+  .main__aside .right-top-partn img {
+    width: 88%;
+    height: 85%;
+  }
+  .main__aside .right-bottom-partn {
+    width: 82%;
+    height: 5%;
+    left: 0%;
+    bottom: 46%;
+  }
+  .top-block {
+    width: 51.361%;
+    height: 54.249%;
+  }
+  .magic-wand {
+    width: 35.77%;
+    height: 16%;
+    right: 0%;
+    bottom: 3%;
+  }
+  .top-registr {
+    display: none;
+  }
+  .bottom-registr {
+    display: block;
+  }
+  .registr-rule {
+    position: absolute;
+    top: auto;
+    bottom: 1%;
+    left: 7%;
+    width: 49.8%;
+    height: 7.375%;
+  }
+  .registr-rule img {
+    width: 71%;
+    height: 75%;
+  }
 }
 /*# sourceMappingURL=main.css.map */
