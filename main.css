@@ -473,8 +473,11 @@ body {
     width: 12.625%;
   }
   .nav-item__link {
-    width: 100%;
-    height: 57%;
+    width: 90%;
+    height: 62%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    border-radius: 41%;
   }
   .nav-item__center {
     width: 26.188%;
@@ -563,8 +566,11 @@ body {
     top: 20%;
   }
   .main__aside .right-top-partn img {
-    width: 88%;
+    width: 82%;
     height: 85%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    border-radius: 50%;
   }
   .main__aside .right-bottom-partn {
     width: 82%;
