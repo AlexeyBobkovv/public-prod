@@ -9,6 +9,20 @@ body {
      object-fit: contain;
 }
 
+.offbtn-background {
+  background: url(../img/btn-off.png) no-repeat;
+  width: 100%;
+  background-size: contain;
+  background-position: center;
+}
+
+.onbtn-background {
+  background: url(../img/btn-on.png) no-repeat;
+  width: 100%;
+  background-size: contain;
+  background-position: center;
+}
+
 .header {
   width: 100vw;
   height: 18vh;
@@ -419,30 +433,22 @@ body {
       -ms-flex-pack: center;
           justify-content: center;
   width: 12.77%;
-  height: 29%;
+  height: 25%;
   position: absolute;
-  right: 0%;
+  right: 0.8%;
   bottom: 3%;
 }
 
 .magic-wand__main {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
   width: 34.3%;
   height: 38.3%;
   border: none;
 }
 
-.magic-wand__main img:first-child {
-  position: absolute;
-  width: 23%;
+.magic-wand__main img {
+  width: 56%;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .magic-wand__icon {
@@ -456,13 +462,13 @@ body {
       -ms-flex-pack: center;
           justify-content: center;
   position: absolute;
-  width: 28%;
+  width: 27%;
   height: 30.6%;
 }
 
-.magic-wand__icon img:first-child {
-  position: absolute;
-  width: 53%;
+.magic-wand__icon img {
+  width: 70%;
+  height: 70%;
 }
 
 .magic-wand a:nth-child(2) {
@@ -471,12 +477,12 @@ body {
 
 .magic-wand a:nth-child(3) {
   top: 18%;
-  right: 9%;
+  right: 11%;
 }
 
 .magic-wand a:nth-child(4) {
   bottom: 18%;
-  right: 9%;
+  right: 11%;
 }
 
 .magic-wand a:nth-child(5) {
@@ -485,18 +491,19 @@ body {
 
 .magic-wand a:nth-child(6) {
   bottom: 18%;
-  left: 9%;
+  left: 11%;
 }
 
 .magic-wand a:nth-child(7) {
   top: 18%;
-  left: 9%;
+  left: 11%;
 }
 
 @media all and (orientation: portrait) {
   .header {
     height: 10vh;
     margin-top: 1vh;
+    margin-bottom: 0vh;
   }
   .menu {
     width: 100%;
