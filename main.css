@@ -3,20 +3,17 @@ body {
   background-color: black;
 }
 
-.offbtn-background {
-  background: url(../img/btn-off.png) no-repeat;
-  background-size: 100% 100%;
-}
-
-.onbtn-background {
-  background: url(../img/btn-on.png) no-repeat;
-  background-size: 100% 100%;
+.bg {
+  width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .header {
   width: 100vw;
   height: 18vh;
   margin-top: 2vh;
+  margin-bottom: 2vh;
   position: relative;
 }
 
@@ -57,10 +54,23 @@ body {
 }
 
 .nav-item__center-icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   width: 57.35849%;
   height: 86.41975%;
-  background: url(../img/main-on.png) no-repeat;
-  background-size: 100% 100%;
+}
+
+.nav-item__center-icon img {
+  width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .nav-item__center-helpers {
@@ -92,13 +102,15 @@ body {
   height: 37.72291%;
 }
 
+.nav-item__center-help-link img:first-child {
+  position: absolute;
+}
+
 .nav-item__center-help-link .info {
-  height: 62%;
-  width: 80%;
+  width: 33%;
 }
 
 .nav-item__center-help-link .rose {
-  height: 80%;
   width: 80%;
 }
 
@@ -108,8 +120,7 @@ body {
 }
 
 .nav-item__center-help-link .letter {
-  height: 61%;
-  width: 80%;
+  width: 65%;
 }
 
 .nav-item__link {
@@ -126,38 +137,40 @@ body {
   height: 63.556%;
 }
 
-.nav-item__link .tournament {
-  width: 66%;
-  height: 69%;
+.nav-item__link img:first-child {
+  position: absolute;
 }
 
-.nav-item__link .spectators {
+.links-size {
+  position: relative;
+}
+
+.links-size .tournament {
+  width: 66%;
+}
+
+.links-size .spectators {
   width: 67%;
-  height: 68%;
   padding-bottom: 6%;
 }
 
-.nav-item__link .partners {
+.links-size .partners {
   width: 81%;
-  height: 68%;
 }
 
-.nav-item__link .clubs {
+.links-size .clubs {
   width: 80%;
-  height: 60%;
   padding-bottom: 8%;
   padding-right: 3%;
 }
 
-.nav-item__link .players {
+.links-size .players {
   width: 59%;
-  height: 83%;
   padding: 0 5% 7% 0;
 }
 
-.nav-item__link .blogers {
+.links-size .blogers {
   width: 58%;
-  height: 58%;
   padding-bottom: 6%;
 }
 
@@ -179,9 +192,9 @@ body {
   border: none;
 }
 
-.registr-rule img {
-  width: 80%;
-  height: 85%;
+.registr-rule img:first-child {
+  position: absolute;
+  width: 64%;
 }
 
 .bottom-registr {
@@ -196,7 +209,7 @@ body {
       -ms-flex-pack: center;
           justify-content: center;
   width: 100vw;
-  height: 80vh;
+  height: 78vh;
   position: relative;
 }
 
@@ -326,6 +339,8 @@ body {
 .main__aside .left-top-partn img {
   width: 100%;
   height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .main__aside .left-center-partn {
@@ -338,6 +353,8 @@ body {
 .main__aside .left-center-partn img {
   width: 100%;
   height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .main__aside .left-bottom-partn {
@@ -350,6 +367,8 @@ body {
 .main__aside .left-bottom-partn img {
   width: 100%;
   height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .main__aside .right-top-partn {
@@ -371,6 +390,8 @@ body {
 .main__aside .right-top-partn img {
   width: 88%;
   height: 85%;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .main__aside .right-bottom-partn {
@@ -383,6 +404,8 @@ body {
 .main__aside .right-bottom-partn img {
   width: 100%;
   height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .magic-wand {
@@ -396,21 +419,30 @@ body {
       -ms-flex-pack: center;
           justify-content: center;
   width: 12.77%;
-  height: 25%;
+  height: 29%;
   position: absolute;
-  right: 0.8%;
+  right: 0%;
   bottom: 3%;
 }
 
 .magic-wand__main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   width: 34.3%;
   height: 38.3%;
   border: none;
 }
 
-.magic-wand__main img {
-  width: 71%;
-  height: 68%;
+.magic-wand__main img:first-child {
+  position: absolute;
+  width: 23%;
 }
 
 .magic-wand__icon {
@@ -424,13 +456,13 @@ body {
       -ms-flex-pack: center;
           justify-content: center;
   position: absolute;
-  width: 27%;
+  width: 28%;
   height: 30.6%;
 }
 
-.magic-wand__icon img {
-  width: 70%;
-  height: 70%;
+.magic-wand__icon img:first-child {
+  position: absolute;
+  width: 53%;
 }
 
 .magic-wand a:nth-child(2) {
@@ -475,8 +507,8 @@ body {
   .nav-item__link {
     width: 90%;
     height: 62%;
-    -o-object-fit: cover;
-       object-fit: cover;
+    -o-object-fit: contain;
+       object-fit: contain;
     border-radius: 41%;
   }
   .nav-item__center {
@@ -567,9 +599,9 @@ body {
   }
   .main__aside .right-top-partn img {
     width: 82%;
-    height: 85%;
-    -o-object-fit: cover;
-       object-fit: cover;
+    height: 90%;
+    -o-object-fit: contain;
+       object-fit: contain;
     border-radius: 50%;
   }
   .main__aside .right-bottom-partn {
@@ -592,7 +624,9 @@ body {
     display: none;
   }
   .bottom-registr {
-    display: block;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
   }
   .registr-rule {
     position: absolute;
@@ -602,9 +636,8 @@ body {
     width: 49.8%;
     height: 7.375%;
   }
-  .registr-rule img {
-    width: 71%;
-    height: 75%;
+  .registr-rule img:first-child {
+    width: 60%;
   }
 }
 /*# sourceMappingURL=main.css.map */
