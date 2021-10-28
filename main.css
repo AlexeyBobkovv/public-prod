@@ -184,7 +184,7 @@ body {
 }
 
 .links-size .blogers {
-  width: 58%;
+  width: 67%;
   padding-bottom: 6%;
 }
 
@@ -245,8 +245,7 @@ body {
 }
 
 .main__center-header-block .earth {
-  width: 92%;
-  height: 90%;
+  width: 72%;
 }
 
 .main__center-header-block .left-bottom-partn {
@@ -345,7 +344,7 @@ body {
 
 .main__aside .left-top-partn {
   width: 23%;
-  height: 18%;
+  height: 17%;
   right: 9%;
   top: 16%;
 }
@@ -398,7 +397,7 @@ body {
   width: 30%;
   height: 25%;
   left: 15%;
-  top: 18%;
+  top: 12%;
 }
 
 .main__aside .right-top-partn img {
@@ -432,8 +431,8 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  width: 12.77%;
-  height: 25%;
+  width: 13.125%;
+  height: 29.9%;
   position: absolute;
   right: 0.8%;
   bottom: 3%;
@@ -446,7 +445,7 @@ body {
 }
 
 .magic-wand__main img {
-  width: 56%;
+  width: 64%;
   -o-object-fit: contain;
      object-fit: contain;
 }
@@ -466,36 +465,43 @@ body {
   height: 30.6%;
 }
 
-.magic-wand__icon img {
-  width: 70%;
+.magic-wand__icon .heart {
+  padding-bottom: 11px;
+  width: 84%;
   height: 70%;
+  padding-left: 2px;
+}
+
+.magic-wand__icon img {
+  width: 58%;
+  height: 59%;
 }
 
 .magic-wand a:nth-child(2) {
-  top: 0;
+  top: 6%;
 }
 
 .magic-wand a:nth-child(3) {
-  top: 18%;
+  top: 21%;
   right: 11%;
 }
 
 .magic-wand a:nth-child(4) {
-  bottom: 18%;
+  bottom: 21%;
   right: 11%;
 }
 
 .magic-wand a:nth-child(5) {
-  bottom: 0;
+  bottom: 5%;
 }
 
 .magic-wand a:nth-child(6) {
-  bottom: 18%;
+  bottom: 21%;
   left: 11%;
 }
 
 .magic-wand a:nth-child(7) {
-  top: 18%;
+  top: 21%;
   left: 11%;
 }
 
@@ -572,23 +578,26 @@ body {
     top: 0%;
   }
   .main__aside .left-top-partn {
-    width: 54%;
-    height: 11%;
+    width: 45%;
+    height: 9%;
     right: 11%;
-    top: 21.5%;
+    top: 22.5%;
   }
   .main__aside .left-top-partn img {
     width: 96%;
     height: 83%;
   }
-  .main__aside .left-center-partn {
-    width: 100%;
-    height: 6%;
+  .main__aside .left-bottom-partn {
+    width: 70%;
+    height: 8%;
     right: 0%;
     top: 49%;
   }
-  .main__aside .left-bottom-partn {
-    display: none;
+  .main__aside .left-center-partn {
+    width: 100%;
+    height: 10%;
+    right: 0%;
+    top: 35%;
   }
   .main__aside .right-top-partn {
     display: -webkit-box;
@@ -623,10 +632,22 @@ body {
   }
   .magic-wand {
     width: 35.77%;
-    height: 16%;
+    height: 21%;
     right: 0%;
     bottom: 3%;
   }
+  .magic-wand img {
+    height: 60%;
+  }
+}
+
+@media all and (orientation: portrait) and (orientation: portrait) and (max-height: 850px) {
+  .magic-wand {
+    height: 25%;
+  }
+}
+
+@media all and (orientation: portrait) {
   .top-registr {
     display: none;
   }
