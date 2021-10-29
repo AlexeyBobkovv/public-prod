@@ -432,16 +432,33 @@ body {
       -ms-flex-pack: center;
           justify-content: center;
   width: 13.125%;
-  height: 29.9%;
+  overflow: hidden;
   position: absolute;
   right: 0.8%;
   bottom: 3%;
 }
 
+.magic-wand:before {
+  content: '';
+  padding-top: 100%;
+}
+
 .magic-wand__main {
-  width: 34.3%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 31.3%;
   height: 38.3%;
   border: none;
+  position: absolute;
+  top: 30%;
+  left: 34%;
 }
 
 .magic-wand__main img {
