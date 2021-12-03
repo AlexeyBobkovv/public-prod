@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="ЗВЕЗДА.svg"
+   id="svg3250"
+   viewBox="0 0 55.15 48.67"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   version="1.1"
+   height="36.0206mm"
+   width="40.8229mm"
+   xml:space="preserve"><metadata
+   id="metadata3254"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   inkscape:current-layer="svg3250"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   inkscape:cy="60.692039"
+   inkscape:cx="39.948602"
+   inkscape:zoom="4.3629058"
+   showgrid="false"
+   id="namedview3252"
+   inkscape:window-height="1002"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+ <defs
+   id="defs3244">
+  <style
+   id="style3242"
+   type="text/css">
+   <![CDATA[
+    .fil0 {fill:black;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ 
+<path
+   transform="matrix(1.0064478,0,0,0.97807568,-0.33064378,1.0435019)"
+   inkscape:transform-center-y="-2.3779336"
+   inkscape:transform-center-x="0.06195737"
+   d="M 42.030961,47.361438 26.62526,36.985935 11.379894,47.595626 16.486961,29.737726 1.6854681,18.517097 20.24751,17.855811 26.34505,0.31138991 32.709956,17.760592 51.279936,18.138173 36.651623,29.583659 Z"
+   inkscape:randomized="0"
+   inkscape:rounded="0"
+   inkscape:flatsided="false"
+   sodipodi:arg2="1.563156"
+   sodipodi:arg1="0.9348375"
+   sodipodi:r2="10.6015"
+   sodipodi:r1="26.074116"
+   sodipodi:cy="26.384745"
+   sodipodi:cx="26.544262"
+   sodipodi:sides="5"
+   id="path4898"
+   style="fill:#ff0000;fill-opacity:0.951807;fill-rule:evenodd;stroke:#ef0000;stroke-width:0.893743;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   sodipodi:type="star" /></svg>
