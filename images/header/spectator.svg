@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Creator: CorelDRAW 2019 (64-Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="72.4991mm" height="64.1456mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 170.23 150.61"
- xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <style type="text/css">
-   <![CDATA[
+<svg xmlns="http://www.w3.org/2000/svg" width="72.499mm" height="64.146mm" viewBox="0 0 170.23 150.61" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"><defs><style type="text/css"><![CDATA[
     .fil0 {fill:black}
-   ]]>
-  </style>
- </defs>
- <g id="Слой_x0020_1">
-  <metadata id="CorelCorpID_0Corel-Layer"/>
-  <circle class="fil0" cx="68.24" cy="34.39" r="34.39"/>
-  <path class="fil0" d="M103.66 81.04l17.74 0 0 -13.84 -17.74 0 0 13.84zm17.74 6.72l-21.41 0c0,0 -17.52,11.07 -17.52,30.83 0,19.77 0,32.02 0,32.02l30.15 0 0 -29.25 8.78 0 0 -7.31 -4.29 0 0 -18.97 4.29 0 0 -7.31z"/>
-  <path class="fil0" d="M149.04 81.04l-17.74 0 0 -13.84 17.74 0 0 13.84zm-17.74 6.72l21.41 0c0,0 17.52,11.07 17.52,30.83 0,19.77 0,32.02 0,32.02l-30.15 0 0 -29.25 -8.78 0 0 -7.31 4.29 0 0 -18.97 -4.29 0 0 -7.31z"/>
-  <path class="fil0" d="M72.38 135.3l-72.38 0c0.92,-27.4 17.11,-48.3 40.01,-57.47 7.6,8.03 18.67,13.09 31,13.09 4.05,0 7.96,-0.55 11.66,-1.56 -5.24,6.49 -10.28,15.82 -10.28,27.65l0 18.29z"/>
- </g>
-</svg>
+   ]]></style></defs><g id="Слой_x0020_1"><circle class="fil0" cx="68.24" cy="34.39" r="34.39"/><path class="fil0" d="M103.66 81.04h17.74v-13.84h-17.74v13.84zm17.74 6.72h-21.41s-17.52 11.07-17.52 30.83v32.02h30.15v-29.25h8.78v-7.31h-4.29v-18.97h4.29v-7.31zM149.04 81.04h-17.74v-13.84h17.74v13.84zm-17.74 6.72h21.41s17.52 11.07 17.52 30.83v32.02h-30.15v-29.25h-8.78v-7.31h4.29v-18.97h-4.29v-7.31zM72.38 135.3h-72.38c.92-27.4 17.11-48.3 40.01-57.47 7.6 8.03 18.67 13.09 31 13.09 4.05 0 7.96-.55 11.66-1.56-5.24 6.49-10.28 15.82-10.28 27.65v18.29z"/></g></svg>
