@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="27.993975"
+   width="29"
+   sodipodi:docname="звук.svg"
+   id="svg11"
+   version="1.1"
+   viewBox="0 0 29 27.993975">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg11"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-6"
+     inkscape:window-x="-6"
+     inkscape:cy="13.993975"
+     inkscape:cx="14"
+     inkscape:zoom="26.5625"
+     showgrid="false"
+     id="namedview13"
+     inkscape:window-height="1018"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="translate(-2,-2.0060254)"
+     id="volume_play"
+     data-name="volume play">
+    <path
+       id="path4"
+       d="m 23.5,2.14 a 1,1 0 0 0 -1,0 L 6.74,11 H 3 a 1,1 0 0 0 -1,1 v 8 a 1,1 0 0 0 1,1 h 3.74 l 15.77,8.87 A 1,1 0 0 0 23,30 1,1 0 0 0 24,29 V 3 A 1,1 0 0 0 23.5,2.14 Z" />
+    <path
+       id="path6"
+       d="m 25,18 a 1,1 0 0 0 1,1 1.94,1.94 0 0 0 1.43,-0.53 A 2.91,2.91 0 0 0 28,16.26 V 15.74 A 2.91,2.91 0 0 0 27.43,13.53 1.94,1.94 0 0 0 26,13 a 1,1 0 0 0 0,2 5.72,5.72 0 0 1 0,0.73 v 0.54 a 5.72,5.72 0 0 1 0,0.73 1,1 0 0 0 -1,1 z" />
+    <path
+       id="path8"
+       d="m 26,10 a 1,1 0 0 0 0,2 c 2.71,0 3,2.8 3,4 0,1.2 -0.29,4 -3,4 a 1,1 0 0 0 0,2 c 3,0 5,-2.36 5,-6 0,-3.64 -2,-6 -5,-6 z" />
+  </g>
+</svg>
