@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="арена ф.svg"
+   id="svg12"
+   viewBox="0 0 92.536935 71.600509"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   version="1.1"
+   height="24.683249mm"
+   width="31.901928mm"
+   xml:space="preserve"><metadata
+   id="metadata16"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   inkscape:current-layer="svg12"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-6"
+   inkscape:window-x="-6"
+   inkscape:cy="23.729272"
+   inkscape:cx="64.346686"
+   inkscape:zoom="4.5845414"
+   showgrid="false"
+   id="namedview14"
+   inkscape:window-height="1018"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+ <defs
+   id="defs4">
+  <style
+   id="style2"
+   type="text/css">
+   <![CDATA[
+    .fil0 {fill:black;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g
+   transform="translate(-9.1012889,-29.03029)"
+   id="Слой_x0020_1">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   d="m 10.363281,36.183594 v 23.6875 45.916016 23.6875 H 130.9375 v -23.6875 -45.916016 -23.6875 H 13.802734 Z m 6.878907,6.853515 h 49.96875 v 16.496094 c -5.120547,0.755704 -9.707345,3.152658 -13.199219,6.644531 -4.260606,4.260608 -6.892578,10.150042 -6.892578,16.638672 0,6.501661 2.631972,12.378068 6.892578,16.638672 3.491874,3.491882 8.078672,5.888832 13.199219,6.644532 v 16.46875 H 17.242188 V 105.75977 H 36.957031 V 59.845703 H 17.242188 Z m 56.861328,0.05273 h 49.966794 v 16.80664 H 107.7832 104.34375 V 105.8125 h 19.71289 v 16.80859 H 74.089844 V 106.125 c 5.120545,-0.7557 9.707345,-3.15264 13.199218,-6.644531 4.260608,-4.260598 6.892579,-10.137012 6.892579,-16.638672 0,-6.50166 -2.631971,-12.378065 -6.892579,-16.638672 -3.48875,-3.488751 -8.070534,-5.884617 -13.185546,-6.642578 z m -6.892578,23.439453 v 0.01367 32.585937 c -3.218257,-0.67752 -6.098791,-2.280431 -8.339844,-4.521484 -3.009787,-3.022816 -4.873047,-7.179926 -4.873047,-11.779297 0,-4.599371 1.86326,-8.767557 4.873047,-11.777344 2.241053,-2.241053 5.121587,-3.843956 8.339844,-4.521484 z m 6.865234,0 c 3.218256,0.677528 6.098791,2.280431 8.339844,4.521484 v -0.01367 c 3.009787,3.022817 4.873046,7.179927 4.873046,11.779297 0,4.599371 -1.863259,8.767558 -4.873046,11.777344 -2.241053,2.241053 -5.121588,3.843954 -8.339844,4.521484 z m -56.845703,0.208984 h 12.845703 v 32.15625 H 17.230469 Z m 93.980471,0 h 12.8457 v 32.15625 h -12.8457 z"
+   transform="matrix(0.76749627,0,0,0.76749627,1.145842,1.2595168)"
+   style="stroke-width:1.30294"
+   id="path7" />
+  <path
+   d="m 131.3125,33.697266 0.0586,0.02539 c 0.006,-0.0087 0.0118,-0.01699 0.0176,-0.02539 -0.0254,-3.3e-5 -0.0508,2.7e-5 -0.0762,0 z"
+   transform="matrix(0.76749627,0,0,0.76749627,1.145842,1.2595168)"
+   style="stroke-width:1.30294"
+   id="polygon9" />
+ </g>
+</svg>
