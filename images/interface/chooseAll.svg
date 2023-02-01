@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="ВСЕ.svg"
+   id="svg1361"
+   version="1.1"
+   height="512"
+   width="512"
+   viewBox="0 0 24 24">
+  <metadata
+     id="metadata1367">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1365" />
+  <sodipodi:namedview
+     inkscape:current-layer="_01_align_center"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-6"
+     inkscape:window-x="-6"
+     inkscape:cy="223.366"
+     inkscape:cx="256"
+     inkscape:zoom="1.6601562"
+     showgrid="false"
+     id="namedview1363"
+     inkscape:window-height="1018"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="matrix(0.62673671,0,0,0.50583049,0.03210064,10.145303)"
+     data-name="01 align center"
+     id="_01_align_center">
+    <path
+       style="stroke-width:1.12065"
+       id="path1358"
+       d="M 9.0367928,23.879179 A 3.3122298,3.3897255 0 0 1 6.6872145,22.884935 L 0.49146156,16.545355 2.0578472,14.941187 8.2536,21.281901 a 1.1077691,1.1336875 0 0 0 1.5663856,0 L 25.320999,5.4182128 26.887384,7.0212469 11.386371,22.884935 a 3.3122298,3.3897255 0 0 1 -2.3495782,0.994244 z" />
+    <g
+       transform="matrix(1.104902,0,0,1.237766,7.0872971,-25.377772)"
+       id="_01_align_center-1"
+       data-name="01 align center">
+      <path
+         d="M 7.8,20.53 A 2.99,2.99 0 0 1 5.679,19.653 L 0.086,14.061 1.5,12.646 7.093,18.239 a 1,1 0 0 0 1.414,0 L 22.5,4.246 23.914,5.66 9.921,19.653 A 2.99,2.99 0 0 1 7.8,20.53 Z"
+         id="path1358-6" />
+    </g>
+    <g
+       transform="matrix(1.1096598,0,0,1.1951126,3.4010322,-12.054311)"
+       id="_01_align_center-7"
+       data-name="01 align center">
+      <path
+         d="M 7.8,20.53 A 2.99,2.99 0 0 1 5.679,19.653 L 0.086,14.061 1.5,12.646 7.093,18.239 a 1,1 0 0 0 1.414,0 L 22.5,4.246 23.914,5.66 9.921,19.653 A 2.99,2.99 0 0 1 7.8,20.53 Z"
+         id="path1358-5" />
+    </g>
+  </g>
+</svg>
